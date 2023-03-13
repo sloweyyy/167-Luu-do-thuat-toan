@@ -24,4 +24,4 @@ float Dientich(float r)
 void Xuat(float kq)
 {
 	cout << "Dien tich la " << kq;
-}
+}ss
