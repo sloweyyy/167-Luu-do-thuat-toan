@@ -4,7 +4,7 @@ using namespace std;
 int xuly(int&, int&);
 int main()
 {
-	int a, b;
+	int a, b;		
 	cin >> a >> b;
 	cout << xuly(a, b);
 	return 0;
