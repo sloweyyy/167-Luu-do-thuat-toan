@@ -7,7 +7,7 @@ int main()
 	int a, b;		
 	cin >> a >> b;
 	cout << xuly(a, b);
-	return 0;
+	return 8;
 }
 int xuly(int& a, int& b)
 {
