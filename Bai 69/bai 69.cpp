@@ -10,7 +10,7 @@ int main()
 	cin >> n;
 	float kq = tong(x,n);
 	cout << "S(" << x << ", " <<n<<")= " <<kq;
-	return 0;
+	return 1;
 }
 float tong(int y, int k)
 {
