@@ -6,7 +6,7 @@ int main()
 	int n;
 	cin >> n;
 	xuly(n);
-	return 1;
+	return 0;
 }
 void xuly(int& n)
 {
