@@ -6,7 +6,7 @@ int main()
 	int x, n;
 	cout << "Nhap x : ";
 	cin >> x;
-	cout << "Nhap n: ";
+	cout << "Nhap n : ";
 	cin >> n;
 	float kq = tong(x, n);
 	cout << "S(" << x << ", " << n << ")= " << kq;

@@ -6,7 +6,7 @@ int main()
 	int n;
 	cin >> n;
 	xuly(n);
-	return 0;
+	return 1;
 }
 void xuly(int& n)
 {
@@ -22,4 +22,5 @@ void xuly(int& n)
 		cout << "co dang 2^m";
 	else
 		cout << "khong co dang 2^m";
+	
 }
