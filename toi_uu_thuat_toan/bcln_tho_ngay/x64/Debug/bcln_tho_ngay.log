@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (bcln_tho_ngay.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  bcnn_tho_ngay.cpp
+  bcln_tho_ngay.vcxproj -> C:\Users\PC\source\repos\Together\toi_uu_thuat_toan\x64\Debug\bcnn_tho_ngay.exe

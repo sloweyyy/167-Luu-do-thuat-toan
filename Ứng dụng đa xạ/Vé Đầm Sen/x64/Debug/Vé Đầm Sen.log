@@ -1,0 +1,4 @@
+﻿  Ve_Dam_Sen.cpp
+C:\Users\PC\source\repos\Together\Ứng dụng đa xạ\Vé Đầm Sen\Ve_Dam_Sen.cpp(77,9): warning C4244: 'return': conversion from 'float' to 'long', possible loss of data
+C:\Users\PC\source\repos\Together\Ứng dụng đa xạ\Vé Đầm Sen\Ve_Dam_Sen.cpp(94,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Vé Đầm Sen.vcxproj -> C:\Users\PC\source\repos\Together\Ứng dụng đa xạ\x64\Debug\Vé Đầm Sen.exe

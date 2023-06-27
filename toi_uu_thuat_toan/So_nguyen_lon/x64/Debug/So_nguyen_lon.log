@@ -1,0 +1,7 @@
+﻿  Songuyenlon.cpp
+C:\Users\PC\source\repos\Together\toi_uu_thuat_toan\So_nguyen_lon\Songuyenlon.cpp(24,9): warning C4101: 'time_use': unreferenced local variable
+C:\Users\PC\source\repos\Together\toi_uu_thuat_toan\So_nguyen_lon\Songuyenlon.cpp(23,17): warning C4101: 'end': unreferenced local variable
+C:\Users\PC\source\repos\Together\toi_uu_thuat_toan\So_nguyen_lon\Songuyenlon.cpp(23,10): warning C4101: 'start': unreferenced local variable
+C:\Users\PC\source\repos\Together\toi_uu_thuat_toan\So_nguyen_lon\Songuyenlon.cpp(130,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\PC\source\repos\Together\toi_uu_thuat_toan\So_nguyen_lon\Songuyenlon.cpp(152,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  So_nguyen_lon.vcxproj -> C:\Users\PC\source\repos\Together\toi_uu_thuat_toan\x64\Debug\So_nguyen_lon.exe
